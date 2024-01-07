@@ -111,11 +111,40 @@ main {
 /*resume-column-title*/
 .resume-column-title {
   color: #474747;
-  font-size: 30px;
+  font-size: 45px;
 }
 /*Resume Section Styles*/
 .resume-column-title {
   color: #474747;
   font-size: 30px;
   font-weight: 700;
+}
+.resume-container {
+  display: flex;
+  gap: 70px;
+}
+.resume-itam-description,
+.resume-iteam-institute {
+  color: #757575;
+}
+.resume-itam-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resume-container hr {
+  margin: 40px;
+}
+.resume-itam-institute {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
+  width: 200px;
+  height: 64px;
+  border-radius: 5px;
+  background: #fd6e0a;
 }
