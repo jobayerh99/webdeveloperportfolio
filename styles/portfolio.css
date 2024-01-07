@@ -140,30 +140,32 @@ main {
   margin-bottom: 20px;
   margin-top: 0px;
 }
-.download-cv{
+.download-cv {
   text-align: center;
   margin-top: 50px;
 }
 
 /*footer Style*/
-footer{
-   display: flex; 
-   gap: 110px;
-   background: #FFF8F3;
-   margin-top: 100px;
-   padding: 130px 200px;
+footer {
+  display: flex;
+  gap: 110px;
+  background: #fff8f3;
+  margin-top: 100px;
+  padding: 130px 200px;
 }
-.footer-column{
-    width: 50%;
+.footer-column {
+  width: 50%;
 }
-.social-links a{
-    margin-right: 25px;
+.social-links a {
+  margin-right: 25px;
 }
-.contact-input[type=text], .contact input[type="email"], textarea{
-    display: block;
-    margin-bottom: 25px;
-    padding: 18px 35px;
-    color: #757575;
-    border: 0;
-    width: 100%;
+.contact-input[type="text"],
+.contact input[type="email"],
+textarea {
+  display: block;
+  margin-bottom: 25px;
+  padding: 18px 35px;
+  color: #757575;
+  border: 0;
+  width: 100%;
 }
